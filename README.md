@@ -34,7 +34,34 @@ The interactive Excel dashboard is available in the [dashboard folder](./dashboa
 
 ##CASE 2: Palmoria Group HR Analysis
 
-Project Overview
+###Project Overview
+This project analyzes the HR data of Palmoria Group to uncover gender-related issues and salary disparities. The aim is to support management in addressing gender inequality, ensuring fair pay practices, and improving compliance with new labor regulations.
+
+###Tools Used
+- Power BI for dashboard design and visualization
+
+###Analysis Process
+- Removed records with no salary (ex-employees)
+- Dropped records with "NULL" department values
+- Assigned "Other" label to missing gender entries
+- Overall gender distribution across regions and departments
+- Highlighted departments with significant imbalance
+
+###Key insight
+- Gender imbalance was most severe in Production and Engineering departments.
+- A significant pay gap was observed in the Southern region for Female employees.
+- 18% of employees were below the $90,000 minimum requirement; most were from Sales and Support roles.
+- Bonus payouts showed equitable distribution aligned with performance ratings.
+
+###Recommendations
+- Immediate salary adjustments for employees below $90,000 to ensure compliance.
+- Targeted hiring and promotion initiatives to balance gender representation in technical roles.
+- Conduct a regular gender pay gap audit, particularly in Southern and Western regions.
+- Training for managers on bias-free performance evaluations.
+
+### Dashboard
+The interactive Power BI dashboard file (.pbix) is included in the [dashboard folder](./dashboard/palmoria_dashboard.pbix). 
+
 
 
 
