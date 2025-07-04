@@ -3,57 +3,57 @@
 
 ## CASE 1: Amazon Product Review Analysis
 
-###Project Overview
+### Project Overview
 This project analyzes Amazon product review data to generate actionable insights on pricing, discount strategies, ratings, and customer engagement. The insights support product improvement and marketing strategies.
 
-###Objectives
+### Objectives
 - Understand product performance by category
 - Explore pricing and discount patterns
 - Analyze review and rating distributions
 - Estimate revenue potential
 
-###Tools Used
+### Tools Used
 - Excel (Pivot tables, dashboard)
 
-###Key Findings
+### Key Findings
 - Category X had the highest average discount at 40%
 - Top-rated product: Product A (4.9 stars)
 - Price buckets: Majority of products priced between ₹200–₹500
 - Revenue potential highest in Electronics category
 
-Recommendations
+### Recommendations
 - Consider revising discount strategies for low-rated products
 - Focus on promoting products with high ratings and review volumes
 - Optimize pricing to align with value perception
 
-###Pivot table
+### Pivot table
 The interactive Pivot table is available in the [pivot table folder](./dashboard/amazon_dashboard.xlsx).
 
-###Dashboard
+### Dashboard
 The interactive Excel dashboard is available in the [dashboard folder](./dashboard/amazon_dashboard.xlsx).
 
-##CASE 2: Palmoria Group HR Analysis
+## CASE 2: Palmoria Group HR Analysis
 
-###Project Overview
+### Project Overview
 This project analyzes the HR data of Palmoria Group to uncover gender-related issues and salary disparities. The aim is to support management in addressing gender inequality, ensuring fair pay practices, and improving compliance with new labor regulations.
 
-###Tools Used
+### Tools Used
 - Power BI for dashboard design and visualization
 
-###Analysis Process
+### Analysis Process
 - Removed records with no salary (ex-employees)
 - Dropped records with "NULL" department values
 - Assigned "Other" label to missing gender entries
 - Overall gender distribution across regions and departments
 - Highlighted departments with significant imbalance
 
-###Key insight
+### Key insight
 - Gender imbalance was most severe in Production and Engineering departments.
 - A significant pay gap was observed in the Southern region for Female employees.
 - 18% of employees were below the $90,000 minimum requirement; most were from Sales and Support roles.
 - Bonus payouts showed equitable distribution aligned with performance ratings.
 
-###Recommendations
+### Recommendations
 - Immediate salary adjustments for employees below $90,000 to ensure compliance.
 - Targeted hiring and promotion initiatives to balance gender representation in technical roles.
 - Conduct a regular gender pay gap audit, particularly in Southern and Western regions.
