@@ -26,11 +26,8 @@ This project analyzes Amazon product review data to generate actionable insights
 - Focus on promoting products with high ratings and review volumes
 - Optimize pricing to align with value perception
 
-### Pivot table
-The interactive Pivot table is available in the [pivot table folder](./dashboard/amazon_dashboard.xlsx).
-
-### Dashboard
-The interactive Excel dashboard is available in the [dashboard folder](./dashboard/amazon_dashboard.xlsx).
+### Pivot table and Dashboard
+The interactive Pivot table and dashboard  is available in the folder [AMAZON 1.xlsx](https://github.com/user-attachments/files/21081801/AMAZON.1.xlsx)
 
 ## CASE 2: Palmoria Group HR Analysis
 
@@ -60,9 +57,10 @@ This project analyzes the HR data of Palmoria Group to uncover gender-related is
 - Training for managers on bias-free performance evaluations.
 
 ### Dashboard
-The interactive Power BI dashboard file (.pbix) is included in the [dashboard folder](./dashboard/palmoria_dashboard.pbix). 
+The interactive Power BI dashboard file (.pbix) is included in the [dashboard folder](https://drive.google.com/file/d/1fhSab0Sm0yy2U0yl0KjbTwzaHTJeQiYV/view?usp=sharing)). <img width="950" alt="Palmoria Group bi" src="https://github.com/user-attachments/assets/63e7effb-c81c-49bb-b89f-6251f18c70b2" />
 
 
+This project is fully completed as part of my DSA Data Analysis Capstone. All analysis tasks, dashboards, and insights are included. Thank you for reviewing!
 
 
 
