@@ -62,5 +62,5 @@ The interactive Power BI dashboard file (.pbix) is included in the [dashboard fo
 
 This project is fully completed as part of my DSA Data Analysis Capstone. All analysis tasks, dashboards, and insights are included. Thank you for reviewing!
 
-
-
+Author Zainab Abari 
+(www.linkedin.com/in/zainab-olaitan)
