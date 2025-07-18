@@ -63,7 +63,9 @@ This project analyzes the HR data of Palmoria Group to uncover gender-related is
 
 ### Dashboard
 The interactive Power BI dashboard file (.pbix) is included in the [dashboard folder](https://drive.google.com/file/d/1fhSab0Sm0yy2U0yl0KjbTwzaHTJeQiYV/view?usp=sharing)). 
-<img width="528" height="297" alt="Palmoria Project Power Bi" src="https://github.com/user-attachments/assets/9f122dfb-7489-4b1c-b7bf-b56931c020ee" />
+
+<img width="578" height="322" alt="Palmoria Project Dsa" src="https://github.com/user-attachments/assets/9e9dcea0-b873-4550-ac6e-8b5a4eedcf6a" />
+
 
 This project is fully completed as part of my DSA Data Analysis Capstone. All analysis tasks, dashboards, and insights are included. Thank you for reviewing!
 
