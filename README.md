@@ -27,7 +27,10 @@ This project analyzes Amazon product review data to generate actionable insights
 - Optimize pricing to align with value perception
 
 ### Pivot table and Dashboard
-The interactive Pivot table and dashboard  is available in the folder [AMAZON 1.xlsx](https://github.com/user-attachments/files/21081801/AMAZON.1.xlsx)
+The interactive Pivot table and dashboard  is available in the folder [AMAZON 1.xlsx](https://github.com/user-attachments/files/21314470/AMAZON.1.xlsx)
+ <img width="932" height="321" alt="Amazon Excel Project" src="https://github.com/user-attachments/assets/21e60b96-dc22-48fc-9072-8eab4d87e6ba" /> 
+<img width="932" height="321" alt="Amazon Excel Project" src="https://github.com/user-attachments/assets/5c7475a9-29a4-4ea3-87d0-c056a4815804" />
+
 
 ## CASE 2: Palmoria Group HR Analysis
 
