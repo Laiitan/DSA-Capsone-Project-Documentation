@@ -28,8 +28,9 @@ This project analyzes Amazon product review data to generate actionable insights
 
 ### Pivot table and Dashboard
 The interactive Pivot table and dashboard  is available in the folder [AMAZON 1.xlsx](https://github.com/user-attachments/files/21314470/AMAZON.1.xlsx)
- <img width="932" height="321" alt="Amazon Excel Project" src="https://github.com/user-attachments/assets/21e60b96-dc22-48fc-9072-8eab4d87e6ba" /> 
 <img width="932" height="321" alt="Amazon Excel Project" src="https://github.com/user-attachments/assets/5c7475a9-29a4-4ea3-87d0-c056a4815804" />
+
+<img width="626" height="299" alt="Amazon Project Excel" src="https://github.com/user-attachments/assets/41b6aae1-271b-4032-9250-18d43b1a7435" />
 
 
 ## CASE 2: Palmoria Group HR Analysis
